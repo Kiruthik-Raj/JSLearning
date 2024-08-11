@@ -28,3 +28,9 @@ let boolcart = Boolean(addedtoCart)
 console.table([boolpayment, boolcart])
 
 //instead of 0 and 1, you can use empty string and a small string so that when it gets converted it returns false for empty and true for string
+
+//console.log(true+); //desnt work
+
+console.log(+true); // works
+
+console.log(+"") // gives 0 as output

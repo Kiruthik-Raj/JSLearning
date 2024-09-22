@@ -1,7 +1,13 @@
 //Arrays in JS
-//indexing - arr[x] - where x is the position of item in te array
+//indexing - arr[x] - where x is the position of item in the array
 
 let myarr = [1,2,3,4,5,6,7,8,9]
+
+//array can contain any datatype
+
+var newarr = ['Ford', true]
+
+console.log(newarr)
 
 console.log(myarr)
 

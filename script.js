@@ -1,3 +1,6 @@
 console.log("Hello from Kiruthickraj");
 
-window.alert("Hello from Kiruthickraj and Scaler");
+var name = "Scaler"
+
+window.alert(`Hello from ${name}`);
+
